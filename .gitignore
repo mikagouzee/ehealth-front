@@ -2,6 +2,13 @@
 .obj/Debug/net8.0/
 .wwwroot/
 
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# DotCover is a Code Coverage Tool
+*.dotCoverture
 
 # Fichiers
 *.appsettings.Development.json
