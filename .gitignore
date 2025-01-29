@@ -1,0 +1,13 @@
+# Répertoires
+/.Properties/
+.obj/Debug/net8.0/
+.wwwroot/
+.Views/
+
+# Fichiers
+*.PatientsMvc.csproj
+*.PatientsMvc.csproj.user
+*.PatientsMvc.sln
+*.Program.cs
+*.appsettings.Development.json
+*.appsettings.json
