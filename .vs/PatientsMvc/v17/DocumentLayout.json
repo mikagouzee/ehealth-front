@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Ehealth\\ehealth-front\\PatientsMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\PatientsMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\ehealth\\ehealth-front\\patientsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:21:32.337Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Ehealth\\ehealth-front\\PatientsMvc\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\Ehealth\\ehealth-front\\PatientsMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:35:38.623Z",
+              "WhenOpened": "2025-01-28T09:19:36.752Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:18:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:15:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:07:54.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IndexViewModel.cs",
+              "RelativeToolTip": "Models\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:06:01.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "Models\\Data.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Data.cs",
+              "RelativeToolTip": "Models\\Data.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:38:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IData.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IData.cs",
+              "RelativeDocumentMoniker": "Models\\IData.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IData.cs",
+              "RelativeToolTip": "Models\\IData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:35:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:31:50.123Z"
             }
           ]
         }
