@@ -4,16 +4,16 @@ namespace PatientsMvc.Service
 {
     public class ApiClient
     {
-        public string basUri { get; set; }
+        public string baseUri { get; set; }
         public ApiClient(string uri)
         {
-            basUri = uri;
+            baseUri = uri;
         }
 
         private HttpResponseMessage Get(string endpoint)
         {
             using var client = new HttpClient();
-            client.BaseAddress = new Uri(basUri + endpoint);
+            client.BaseAddress = new Uri(baseUri + endpoint);
             client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
             return client.GetAsync("").Result;
         }
@@ -21,11 +21,27 @@ namespace PatientsMvc.Service
         private HttpResponseMessage Post<T>(string endpoint, T body)
         {
             using var client = new HttpClient();
-            client.BaseAddress = new Uri(basUri + endpoint);
+            client.BaseAddress = new Uri(baseUri + endpoint);
             client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-            return client.PostAsJsonAsync<T>(endpoint, body).Result;
+            client.DefaultRequestHeaders.TransferEncodingChunked = false;
+            var attempt = client.PostAsJsonAsync(endpoint, body);
+            return attempt.Result;
         }
-        
+        public void Login(LoginRequest request)
+        {
+            string endpoint = "/user/login";
+            var serverResponse = Post(endpoint, request);
+
+            if (serverResponse.IsSuccessStatusCode)
+            {
+                Console.Write("Login success!");
+            }
+            else
+            {
+                Console.WriteLine("Login Failure!");
+            }
+        }
+
         public List<Doctor> GetDoctor()
         {
             List<Doctor> result = null;
@@ -62,19 +78,6 @@ namespace PatientsMvc.Service
             }
         }
 
-        public void Login(LoginRequest request)
-        {
-            string endpoint = "/user/login";
-            var serverResponse = Post(endpoint, request);
-
-            if (serverResponse.IsSuccessStatusCode)
-            {
-                Console.Write("Login success!");
-            }
-            else
-            {
-                Console.WriteLine("Login Failure!");
-            }
-        }
+        
     }
 }
