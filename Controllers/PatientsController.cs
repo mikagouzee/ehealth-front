@@ -38,7 +38,7 @@ namespace PatientsMvc.Controllers
         //le patient peut voir la liste des docteurs
         public IActionResult DoctorDashboard()
         {
-            List<Doctor> listToShow = new ApiClient("http://localhost:8082").GetDoctor();
+            List<Doctor> listToShow = new ApiClient("http://localhost:8080").GetDoctor();
             return View(listToShow);
         }
 

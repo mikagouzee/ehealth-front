@@ -18,7 +18,7 @@ namespace PatientsMvc.Service
         public List<Doctor> GetDoctor()
         {
             List<Doctor> result = null;
-            string patientEndpont = basUri + "/user/doctor";
+            string patientEndpont = "/user/doctors";
             var serverResponse = CallBackend(patientEndpont);
             if (serverResponse.IsSuccessStatusCode)
             {
