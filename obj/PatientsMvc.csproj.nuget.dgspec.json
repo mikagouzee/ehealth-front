@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\PatientsMvc\\PatientsMvc.csproj": {}
+    "C:\\Users\\student\\Source\\Repos\\ehealth-front\\PatientsMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\PatientsMvc\\PatientsMvc.csproj": {
+    "C:\\Users\\student\\Source\\Repos\\ehealth-front\\PatientsMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\PatientsMvc\\PatientsMvc.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\ehealth-front\\PatientsMvc.csproj",
         "projectName": "PatientsMvc",
-        "projectPath": "C:\\Users\\student\\Desktop\\PatientsMvc\\PatientsMvc.csproj",
+        "projectPath": "C:\\Users\\student\\Source\\Repos\\ehealth-front\\PatientsMvc.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\PatientsMvc\\obj\\",
+        "outputPath": "C:\\Users\\student\\Source\\Repos\\ehealth-front\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
