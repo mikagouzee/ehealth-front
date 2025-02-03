@@ -42,4 +42,6 @@ msbuild.wrn
 msbuild.ProjectImports.zip
 *.binlog
 *.complog
-/.vs/PatientsMvc/v17/.suo
+
+# Visual Studio 2015
+.vs/
