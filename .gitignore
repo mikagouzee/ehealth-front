@@ -16,3 +16,32 @@ _ReSharper*/
 
 .vs/
 .obj/
+
+# Tools directory
+/.[Tt]ools/
+.dotnet/
+.packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+artifacts/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/ !eng/common/cross/x86/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+msbuild.ProjectImports.zip
+*.binlog
+*.complog
+
+# Visual Studio 2015
+.vs/
