@@ -33,7 +33,7 @@ namespace PatientsMvc.Models
                 }
             }
             else
-            {
+            { 
                 Console.WriteLine("{0} ({1})", (int)response.StatusCode,
                               response.ReasonPhrase);
             }

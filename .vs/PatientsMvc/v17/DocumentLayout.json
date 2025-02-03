@@ -1,42 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\PatientsMvc\\",
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\service\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:service\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\views\\patients\\doctordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:views\\patients\\doctordashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\views\\patients\\patientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:views\\patients\\patientdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\patientsmvc\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\patientsmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:patientsmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|c:\\users\\student\\desktop\\e-healthgit\\ehealth-front\\models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F3F04-77C4-4F26-B1A9-8073EF0AFFF8}|PatientsMvc.csproj|solutionrelative:models\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,117 +70,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:21:32.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:19:36.752Z",
+              "Title": "DoctorDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Patients\\DoctorDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\DoctorDashboard.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Patients\\DoctorDashboard.cshtml",
+              "RelativeToolTip": "Views\\Patients\\DoctorDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T14:53:33.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Title": "PatientDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Patients\\PatientDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\PatientDashboard.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Patients\\PatientDashboard.cshtml",
+              "RelativeToolTip": "Views\\Patients\\PatientDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T09:18:51.082Z"
+              "WhenOpened": "2025-01-30T13:53:18.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Patients\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Views\\Patients\\Index.cshtml",
-              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T09:15:52.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Service\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Service\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Service\\ApiClient.cs",
+              "RelativeToolTip": "Service\\ApiClient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:07:54.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IndexViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\IndexViewModel.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IndexViewModel.cs",
-              "RelativeToolTip": "Models\\IndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:06:01.418Z"
+              "WhenOpened": "2025-01-30T13:11:42.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:07:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\Data.cs",
               "RelativeDocumentMoniker": "Models\\Data.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Data.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\Data.cs",
               "RelativeToolTip": "Models\\Data.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T08:38:08.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IData.cs",
-              "RelativeDocumentMoniker": "Models\\IData.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\IData.cs",
-              "RelativeToolTip": "Models\\IData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:35:50.099Z"
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:18:51.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\PatientsMvc\\Models\\Patient.cs",
-              "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:31:50.123Z"
+              "WhenOpened": "2025-01-28T09:21:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:19:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:48:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T09:15:52.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:12:34.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientsMvc",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\PatientsMvc.csproj",
+              "RelativeDocumentMoniker": "PatientsMvc.csproj",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\PatientsMvc.csproj",
+              "RelativeToolTip": "PatientsMvc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T11:05:32.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:31:50.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IData.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\IData.cs",
+              "RelativeDocumentMoniker": "Models\\IData.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\IData.cs",
+              "RelativeToolTip": "Models\\IData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:35:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\E-healthGit\\ehealth-front\\Models\\IndexViewModel.cs",
+              "RelativeToolTip": "Models\\IndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:06:01.418Z",
+              "EditorCaption": ""
             }
           ]
         }

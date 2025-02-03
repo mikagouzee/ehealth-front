@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PatientsMvc.Models;
+using PatientsMvc.Service;
 namespace PatientsMvc.Controllers
 {
     public class PatientsController : Controller
@@ -15,8 +16,6 @@ namespace PatientsMvc.Controllers
         }
 
 
-
-
         public IActionResult Index()
         {
             List<Patient> patients = _tempData.PatientsInitializeData();
@@ -27,6 +26,20 @@ namespace PatientsMvc.Controllers
             };
 
             return View(indexViewModel);
+        }
+
+
+      /*  public IActionResult PatientDashboard()
+        {
+            List<Patient> listToShow = new ApiClient("http://localhost:8082").GetPatients();
+            return View(listToShow);
+        }*/
+
+        //le patient peut voir la liste des docteurs
+        public IActionResult DoctorDashboard()
+        {
+            List<Doctor> listToShow = new ApiClient("http://localhost:8082").GetDoctor();
+            return View(listToShow);
         }
 
         public IActionResult Details(int? id)

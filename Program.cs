@@ -3,6 +3,7 @@ using PatientsMvc.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpClient();//
 builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<IData, Data>();
 var app = builder.Build();

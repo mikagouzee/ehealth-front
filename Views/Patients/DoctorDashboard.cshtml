@@ -1,0 +1,33 @@
+﻿@model List<Doctor>
+
+@{
+    ViewData["Title"] = "Doctor Dashboard";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nom</th>
+            <th scope="col">Information</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.Id</td>
+                <td>@d.Name</td>
+                <td>@d.Spécialité</td>
+                <td>@d.phoneNumber</td>
+                <td>
+                    <a href="@Url.Action("Details", "Patient", new { id = d.Id })" class="btn btn-info">Détails</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
